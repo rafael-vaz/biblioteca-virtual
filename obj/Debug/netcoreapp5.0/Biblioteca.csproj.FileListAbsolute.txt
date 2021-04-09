@@ -1,0 +1,289 @@
+/home/rafael/Downloads/Biblioteca/bin/Debug/netcoreapp5.0/appsettings.Development.json
+/home/rafael/Downloads/Biblioteca/bin/Debug/netcoreapp5.0/appsettings.json
+/home/rafael/Downloads/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca
+/home/rafael/Downloads/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.deps.json
+/home/rafael/Downloads/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.runtimeconfig.json
+/home/rafael/Downloads/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.runtimeconfig.dev.json
+/home/rafael/Downloads/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.dll
+/home/rafael/Downloads/Biblioteca/bin/Debug/netcoreapp5.0/ref/Biblioteca.dll
+/home/rafael/Downloads/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.pdb
+/home/rafael/Downloads/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.Views.dll
+/home/rafael/Downloads/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.Views.pdb
+/home/rafael/Downloads/Biblioteca/bin/Debug/netcoreapp5.0/Microsoft.EntityFrameworkCore.dll
+/home/rafael/Downloads/Biblioteca/bin/Debug/netcoreapp5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/rafael/Downloads/Biblioteca/bin/Debug/netcoreapp5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/rafael/Downloads/Biblioteca/bin/Debug/netcoreapp5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/rafael/Downloads/Biblioteca/bin/Debug/netcoreapp5.0/MySqlConnector.dll
+/home/rafael/Downloads/Biblioteca/bin/Debug/netcoreapp5.0/Newtonsoft.Json.dll
+/home/rafael/Downloads/Biblioteca/bin/Debug/netcoreapp5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/rafael/Downloads/Biblioteca/bin/Debug/netcoreapp5.0/Pomelo.JsonObject.dll
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.csprojAssemblyReference.cache
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.AssemblyInfoInputs.cache
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.AssemblyInfo.cs
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.csproj.CoreCompileInputs.cache
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.RazorAssemblyInfo.cache
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.RazorAssemblyInfo.cs
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/staticwebassets/Biblioteca.StaticWebAssets.Manifest.cache
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/staticwebassets/Biblioteca.StaticWebAssets.xml
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/scopedcss/bundle/Biblioteca.styles.css
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.TagHelpers.input.cache
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.TagHelpers.output.cache
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.RazorCoreGenerate.cache
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Emprestimo/Cadastro.cshtml.g.cs
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Emprestimo/Edicao.cshtml.g.cs
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Emprestimo/Listagem.cshtml.g.cs
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Home/Login.cshtml.g.cs
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Livro/Cadastro.cshtml.g.cs
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Livro/Edicao.cshtml.g.cs
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Livro/Listagem.cshtml.g.cs
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Livro/_FormCadastro.cshtml.g.cs
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.RazorTargetAssemblyInfo.cache
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.RazorTargetAssemblyInfo.cs
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.Views.pdb
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.csproj.CopyComplete
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.dll
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/ref/Biblioteca.dll
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.pdb
+/home/rafael/Downloads/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.genruntimeconfig.cache
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/bin/Debug/netcoreapp5.0/appsettings.Development.json
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/bin/Debug/netcoreapp5.0/appsettings.json
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.deps.json
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.runtimeconfig.json
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.runtimeconfig.dev.json
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.dll
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/bin/Debug/netcoreapp5.0/ref/Biblioteca.dll
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.pdb
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.Views.dll
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.Views.pdb
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/bin/Debug/netcoreapp5.0/Microsoft.EntityFrameworkCore.dll
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/bin/Debug/netcoreapp5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/bin/Debug/netcoreapp5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/bin/Debug/netcoreapp5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/bin/Debug/netcoreapp5.0/MySqlConnector.dll
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/bin/Debug/netcoreapp5.0/Newtonsoft.Json.dll
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/bin/Debug/netcoreapp5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/bin/Debug/netcoreapp5.0/Pomelo.JsonObject.dll
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.csprojAssemblyReference.cache
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.AssemblyInfoInputs.cache
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.AssemblyInfo.cs
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.csproj.CoreCompileInputs.cache
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.RazorAssemblyInfo.cache
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.RazorAssemblyInfo.cs
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/staticwebassets/Biblioteca.StaticWebAssets.Manifest.cache
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/staticwebassets/Biblioteca.StaticWebAssets.xml
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/scopedcss/bundle/Biblioteca.styles.css
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.TagHelpers.input.cache
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.TagHelpers.output.cache
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.RazorCoreGenerate.cache
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Emprestimo/Cadastro.cshtml.g.cs
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Emprestimo/Edicao.cshtml.g.cs
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Emprestimo/Listagem.cshtml.g.cs
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Home/Login.cshtml.g.cs
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Livro/Cadastro.cshtml.g.cs
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Livro/Edicao.cshtml.g.cs
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Livro/Listagem.cshtml.g.cs
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Livro/_FormCadastro.cshtml.g.cs
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.RazorTargetAssemblyInfo.cache
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.RazorTargetAssemblyInfo.cs
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.Views.pdb
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.csproj.CopyComplete
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.dll
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/ref/Biblioteca.dll
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.pdb
+/home/rafael/Downloads/Atividade 01/Projeto + Git/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.genruntimeconfig.cache
+/home/rafael/Downloads/Atividade 02/Biblioteca/bin/Debug/netcoreapp5.0/appsettings.Development.json
+/home/rafael/Downloads/Atividade 02/Biblioteca/bin/Debug/netcoreapp5.0/appsettings.json
+/home/rafael/Downloads/Atividade 02/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca
+/home/rafael/Downloads/Atividade 02/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.deps.json
+/home/rafael/Downloads/Atividade 02/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.runtimeconfig.json
+/home/rafael/Downloads/Atividade 02/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.runtimeconfig.dev.json
+/home/rafael/Downloads/Atividade 02/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.dll
+/home/rafael/Downloads/Atividade 02/Biblioteca/bin/Debug/netcoreapp5.0/ref/Biblioteca.dll
+/home/rafael/Downloads/Atividade 02/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.pdb
+/home/rafael/Downloads/Atividade 02/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.Views.dll
+/home/rafael/Downloads/Atividade 02/Biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.Views.pdb
+/home/rafael/Downloads/Atividade 02/Biblioteca/bin/Debug/netcoreapp5.0/Microsoft.EntityFrameworkCore.dll
+/home/rafael/Downloads/Atividade 02/Biblioteca/bin/Debug/netcoreapp5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/rafael/Downloads/Atividade 02/Biblioteca/bin/Debug/netcoreapp5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/rafael/Downloads/Atividade 02/Biblioteca/bin/Debug/netcoreapp5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/rafael/Downloads/Atividade 02/Biblioteca/bin/Debug/netcoreapp5.0/MySqlConnector.dll
+/home/rafael/Downloads/Atividade 02/Biblioteca/bin/Debug/netcoreapp5.0/Newtonsoft.Json.dll
+/home/rafael/Downloads/Atividade 02/Biblioteca/bin/Debug/netcoreapp5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/rafael/Downloads/Atividade 02/Biblioteca/bin/Debug/netcoreapp5.0/Pomelo.JsonObject.dll
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.csprojAssemblyReference.cache
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.AssemblyInfoInputs.cache
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.AssemblyInfo.cs
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.csproj.CoreCompileInputs.cache
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.RazorAssemblyInfo.cache
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.RazorAssemblyInfo.cs
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/staticwebassets/Biblioteca.StaticWebAssets.Manifest.cache
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/staticwebassets/Biblioteca.StaticWebAssets.xml
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/scopedcss/bundle/Biblioteca.styles.css
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.TagHelpers.input.cache
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.TagHelpers.output.cache
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.RazorCoreGenerate.cache
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Emprestimo/Cadastro.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Emprestimo/Edicao.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Emprestimo/Listagem.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Home/Login.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Livro/Cadastro.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Livro/Edicao.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Livro/Listagem.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Livro/_FormCadastro.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.RazorTargetAssemblyInfo.cache
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.RazorTargetAssemblyInfo.cs
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.Views.pdb
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.csproj.CopyComplete
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.dll
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/ref/Biblioteca.dll
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.pdb
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.genruntimeconfig.cache
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Usuario/Cadastro.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Usuario/Listagem.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/Biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Usuario/Editar.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/bin/Debug/netcoreapp5.0/appsettings.Development.json
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/bin/Debug/netcoreapp5.0/appsettings.json
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/bin/Debug/netcoreapp5.0/Biblioteca
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.deps.json
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.runtimeconfig.json
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.runtimeconfig.dev.json
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.dll
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/bin/Debug/netcoreapp5.0/ref/Biblioteca.dll
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.pdb
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.Views.dll
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/bin/Debug/netcoreapp5.0/Biblioteca.Views.pdb
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/bin/Debug/netcoreapp5.0/Microsoft.EntityFrameworkCore.dll
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/bin/Debug/netcoreapp5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/bin/Debug/netcoreapp5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/bin/Debug/netcoreapp5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/bin/Debug/netcoreapp5.0/MySqlConnector.dll
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/bin/Debug/netcoreapp5.0/Newtonsoft.Json.dll
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/bin/Debug/netcoreapp5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/bin/Debug/netcoreapp5.0/Pomelo.JsonObject.dll
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.csprojAssemblyReference.cache
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.AssemblyInfoInputs.cache
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.AssemblyInfo.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.csproj.CoreCompileInputs.cache
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.RazorAssemblyInfo.cache
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.RazorAssemblyInfo.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/staticwebassets/Biblioteca.StaticWebAssets.Manifest.cache
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/staticwebassets/Biblioteca.StaticWebAssets.xml
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/scopedcss/bundle/Biblioteca.styles.css
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.TagHelpers.input.cache
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.TagHelpers.output.cache
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.RazorCoreGenerate.cache
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Emprestimo/Cadastro.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Emprestimo/Edicao.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Emprestimo/Listagem.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Home/Login.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Livro/Cadastro.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Livro/Edicao.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Livro/Listagem.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Livro/_FormCadastro.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Usuario/Cadastro.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Usuario/Editar.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/Usuario/Listagem.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.RazorTargetAssemblyInfo.cache
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.RazorTargetAssemblyInfo.cs
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.Views.pdb
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.csproj.CopyComplete
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.dll
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/ref/Biblioteca.dll
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.pdb
+/home/rafael/Downloads/Atividade 02/projeto-biblioteca/obj/Debug/netcoreapp5.0/Biblioteca.genruntimeconfig.cache
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/bin/Debug/netcoreapp5.0/appsettings.Development.json
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/bin/Debug/netcoreapp5.0/appsettings.json
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/bin/Debug/netcoreapp5.0/Biblioteca
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/bin/Debug/netcoreapp5.0/Biblioteca.deps.json
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/bin/Debug/netcoreapp5.0/Biblioteca.runtimeconfig.json
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/bin/Debug/netcoreapp5.0/Biblioteca.runtimeconfig.dev.json
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/bin/Debug/netcoreapp5.0/Biblioteca.dll
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/bin/Debug/netcoreapp5.0/ref/Biblioteca.dll
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/bin/Debug/netcoreapp5.0/Biblioteca.pdb
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/bin/Debug/netcoreapp5.0/Biblioteca.Views.dll
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/bin/Debug/netcoreapp5.0/Biblioteca.Views.pdb
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/bin/Debug/netcoreapp5.0/Microsoft.EntityFrameworkCore.dll
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/bin/Debug/netcoreapp5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/bin/Debug/netcoreapp5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/bin/Debug/netcoreapp5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/bin/Debug/netcoreapp5.0/MySqlConnector.dll
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/bin/Debug/netcoreapp5.0/Newtonsoft.Json.dll
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/bin/Debug/netcoreapp5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/bin/Debug/netcoreapp5.0/Pomelo.JsonObject.dll
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Biblioteca.csprojAssemblyReference.cache
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Biblioteca.AssemblyInfoInputs.cache
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Biblioteca.AssemblyInfo.cs
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Biblioteca.csproj.CoreCompileInputs.cache
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Biblioteca.RazorAssemblyInfo.cache
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Biblioteca.RazorAssemblyInfo.cs
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/staticwebassets/Biblioteca.StaticWebAssets.Manifest.cache
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/staticwebassets/Biblioteca.StaticWebAssets.xml
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/scopedcss/bundle/Biblioteca.styles.css
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Biblioteca.TagHelpers.input.cache
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Biblioteca.TagHelpers.output.cache
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Biblioteca.RazorCoreGenerate.cache
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Razor/Views/Emprestimo/Cadastro.cshtml.g.cs
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Razor/Views/Emprestimo/Edicao.cshtml.g.cs
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Razor/Views/Emprestimo/Listagem.cshtml.g.cs
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Razor/Views/Home/Login.cshtml.g.cs
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Razor/Views/Livro/Cadastro.cshtml.g.cs
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Razor/Views/Livro/Edicao.cshtml.g.cs
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Razor/Views/Livro/Listagem.cshtml.g.cs
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Razor/Views/Livro/_FormCadastro.cshtml.g.cs
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Razor/Views/Usuario/Cadastro.cshtml.g.cs
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Razor/Views/Usuario/Editar.cshtml.g.cs
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Razor/Views/Usuario/Listagem.cshtml.g.cs
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Biblioteca.RazorTargetAssemblyInfo.cache
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Biblioteca.RazorTargetAssemblyInfo.cs
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Biblioteca.Views.pdb
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Biblioteca.csproj.CopyComplete
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Biblioteca.dll
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/ref/Biblioteca.dll
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Biblioteca.pdb
+/home/rafael/Downloads/projeto-biblioteca-dotnet-ef/obj/Debug/netcoreapp5.0/Biblioteca.genruntimeconfig.cache

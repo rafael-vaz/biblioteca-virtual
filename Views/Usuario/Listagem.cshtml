@@ -1,0 +1,31 @@
+@model List<Usuario>
+@{
+    ViewData["Title"] = "Listagem de Usuários";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <table class="table table-striped"> 
+            <thead>
+                <tr><th>Id</th>
+                <th>Login</th>
+                <th>Senha</th>
+                <th></th>
+                <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(Usuario u in Model)
+                {
+                <tr>
+                    <td>@u.Id</td>
+                    <td>@u.Login</td>
+                    <td>@u.Senha</td>
+                    <td><a href="/Usuario/Editar/@u.Id">Editar</a></td>
+                    <td><a href="/Usuario/Remover/@u.Id" style="color: red">Remover</a></td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
